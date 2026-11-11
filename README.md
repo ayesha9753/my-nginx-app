@@ -1,5 +1,8 @@
 # Node.js Sample Web App
 
+![Implementation](implementation.svg)
+
+
 A lightweight Node.js web application that serves a static page using Node's built-in `http` module — no frameworks, no dependencies.
 
 Originally set up as an AWS Elastic Beanstalk sample-style deployment, including a `cron.yaml` scheduled-task example.
